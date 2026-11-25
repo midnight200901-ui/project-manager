@@ -2,7 +2,7 @@
 
 Командный учебный проект (36 ч, 6 спринтов): мобильное приложение для просмотра оценок по дисциплинам, расчёта среднего балла, отслеживания динамики и расчёта «какая оценка нужна для целевого среднего».
 
-**Стек:** Kotlin · Jetpack Compose (Material 3) · Navigation Compose · Room (SQLite) + KSP · ViewModel + StateFlow · JUnit 4.
+**Стек:** Kotlin · Jetpack Compose (Material 3) · Navigation Compose · Room (SQLite) + KSP · ViewModel + StateFlow · JUnit 4.  
 
 ## Как открыть и запустить
 
